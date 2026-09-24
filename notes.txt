@@ -1,1 +1,2 @@
 Link to the repo fromthe tomography challenge 2022: https://github.com/99991/HTC2022-TUD-HHU-version-1
+Gradient descent algorithms: https://www.geeksforgeeks.org/machine-learning/gradient-descent-algorithm-and-its-variants/
